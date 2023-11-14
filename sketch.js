@@ -17,7 +17,13 @@ function draw() {
   // and then modify them inside the draw function to do animations. You just
   // can't call drawing functions like `ellipse` outside the `draw` function.
   fill(0, 100, 255);
+
+  // This creates the snowman's head
   ellipse(100, 60, 40, 40);
+
+  // This creates the snowman's torso
   ellipse(100, 115, 70, 70);
+
+  // This creates the snowman's... I don't know, feet?..
   ellipse(100, 200, 100, 100);
 }

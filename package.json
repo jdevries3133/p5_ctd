@@ -1,0 +1,14 @@
+{
+  "name": "p5_ctd",
+  "version": "1.0.0",
+  "description": "P5.js start app for CTD",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

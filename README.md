@@ -12,6 +12,12 @@ Don't feel distressed if it's hard to get your development environment perfect.
 It will be hard, but if you keep putting in consistent work, your day-to-day
 coding will only become easier and more enjoyable!
 
+## Download the Code
+
+[You can click here to download this
+code.](https://github.com/jdevries3133/p5_ctd/zipball/master) Or, you can always
+download any GitHub repo using the big green, "Code" button.
+
 ## Usage without Node
 
 You don't need anything fancy installed on your machine to run P5.js locally.

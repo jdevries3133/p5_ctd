@@ -22,8 +22,13 @@ download any GitHub repo using the big green, "Code" button.
 
 You don't need anything fancy installed on your machine to run P5.js locally.
 Just download the code from GitHub, navigate to this folder and double-click on
-`index.html`. The snowman should appear on your browser screen. If you change
-the `sketch.js` file **and hit refresh,** the drawing will update.
+`index.html`. The snowman should appear on your browser screen.
+
+Once you see the snowman, open `sketch.js` with a text editor. If you are on
+Windows, you can use Notepad. On macOS, you can use TextEdit.app. Make a change
+to the file (maybe delete the line creating the snowman's head), save the file,
+and then hit refresh in the browser window with the snowman. The change you made
+should show up!
 
 To get live-reloading when you change the file, read on!
 
